@@ -23,7 +23,7 @@
     "@types/testing-library__cypress": "^5.0.5",
     "@typescript-eslint/eslint-plugin": "^2.31.0",
     "@typescript-eslint/parser": "^2.31.0",
-    "cloneswap-v2-sdk": "3.0.9",                    // Make sure these are at your latest version
+    "cloneswap-v2-sdk": "3.0.9",
     "@uniswap/token-lists": "^1.0.0-beta.11",
     "cloneswap-v2-core": "1.1.5",
     "cloneswap-v2-periphery": "1.0.1",
