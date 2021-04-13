@@ -168,7 +168,7 @@ export default function Header() {
             </AccountElement>
           </HeaderElement>
           <HeaderElementWrap>
-            <VersionSwitch />
+            
             <Settings />
             <Menu />
           </HeaderElementWrap>
